@@ -13,20 +13,23 @@ https://mediaroom.kbb.com/2023-01-11-No-End-in-Sight-New-Vehicle-Transaction-Pri
 5. Cyclists have less cumulative exposure to air pollution than walkers or drivers
 https://www.slideshare.net/JamesTate22/exposure-to-the-trafficrelated-air-pollutants-particle-number-and-no2-when-commuting-by-modes-walk-cycle-car-and-bus
 
-6. Guoyuan Huang, Xiangrong Shi, Cheryl A. Gibson, Sunny C. Huang, Nadine A.
+6. https://aaafoundation.org/american-driving-survey-2020-2021/
+
+7. Guoyuan Huang, Xiangrong Shi, Cheryl A. Gibson, Sunny C. Huang, Nadine A.
    Coudret & Mary C. Ehlman (2013) Controlled aerobic exercise training reduces
    resting blood pressure in sedentary older adults, Blood Pressure, 22:6,
    386-394, DOI: 10.3109/08037051.2013.778003 Less sick days Hendriksen, Ingrid
    J M et al. “The association between commuter cycling and sickness absence.”
    Preventive medicine vol. 51,2 (2010): 132-5. doi:10.1016/j.ypmed.2010.05.007
 
-7. Hendriksen, Ingrid J M et al. “The association between commuter cycling and
+8. Hendriksen, Ingrid J M et al. “The association between commuter cycling and
    sickness absence.” Preventive medicine vol. 51,2 (2010): 132-5.
    doi:10.1016/j.ypmed.2010.05.007
 
-8. Grasdalsmoen, Michael, et al. “Physical Exercise, Mental Health Problems,
+9. Grasdalsmoen, Michael, et al. “Physical Exercise, Mental Health Problems,
    and Suicide Attempts in University Students.” BMC Psychiatry, vol. 20, no.
    1, Apr. 2020, pp. 1–11. EBSCOhost,
    https://doi-org.libproxy.pcc.edu/10.1186/s12888-020-02583-3.
+
 
 
