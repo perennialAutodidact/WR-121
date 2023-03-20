@@ -10,7 +10,7 @@ It's difficult sometimes for those who are lucky enough to have the ability to
 make ends meet to empathize with those to whom that privilege isn't available, 
 so let's explore some of the root causes of homelessness in Oregon.
 
-Houseless individuals are  often stigmatized as lazy, drug-addicted, mentally
+Houseless individuals are often stigmatized as lazy, drug-addicted, mentally
 ill or sometimes all three. This definitely makes it easier to direct anger at
 them, but do all homeless folks fall into these categories? Due in part to
 Oregon's 2020 passing of Measure 110, which decriminalized the minor possession
