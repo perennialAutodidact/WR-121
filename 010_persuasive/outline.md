@@ -38,6 +38,17 @@ and 2015 by simply giving homeless people homes.
 #### Sources
 - https://www.npr.org/2015/12/10/459100751/utah-reduced-chronic-homelessness-by-91-percent-heres-how
 
+40% unsheltered, 53% sheltered homeless were employed 2011-2018
+https://bfi.uchicago.edu/insight/finding/learning-about-homelessness-using-linked-survey-and-administrative-data/
+
+Minimum income required to afford modest apartment in USA.
+https://nlihc.org/oor
+
+### Moral and ethical imperative
+
+#### Sources
+
+
 ## In Opposition
 - People don't want drug addicts living in their neighborhood.
   - The average cost of drug addiction treatment per person in the US is just
