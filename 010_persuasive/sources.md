@@ -10,3 +10,6 @@
 
 
 - https://www.vera.org/publications/price-of-prisons-2015-state-spending-trends/price-of-prisons-2015-state-spending-trends/price-of-prisons-2015-state-spending-trends-prison-spending
+
+- 26% of homeless do drugs
+https://www.nationalhomeless.org/factsheets/addiction.pdf
